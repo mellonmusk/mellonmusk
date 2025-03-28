@@ -1,4 +1,4 @@
-Hi, my name is Holly Kim and I am majoring in computer science. 
+Hi, my name is HoJeong Kim and I am majoring in computer science. 
 <br/>
 
 # Skills
