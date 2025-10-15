@@ -1,4 +1,4 @@
-Hi, my name is HoJung Kim and I am majoring in Computer Science and Engineering. 
+Hi, my name is HoJeong Kim and I am majoring in Computer Science and Engineering. 
 <br/>
 
 # Skills
